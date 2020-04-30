@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apple-store"
+    }
+  },
+  "defaultProject": "apple-store",
+  "cli": {
+    "analytics": "7ee1829f-1afd-4566-8c37-15f7f68087b1"
+  }
 }
