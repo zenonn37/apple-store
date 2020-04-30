@@ -1,4 +1,4 @@
-import { ProductsDetailComponent } from './../products-detail/products-detail.component';
+import { ProductsDetailComponent } from './products-detail/products-detail.component';
 import { ProductsRoutingModule } from './products-routing.module';
 
 import { NgModule } from '@angular/core';
